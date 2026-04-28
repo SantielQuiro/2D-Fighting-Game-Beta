@@ -53,7 +53,9 @@ Solo developer:
 - Combat system development
 ---
 ## ⚡ Code Highlights
-- Modular AI State system
-- Separation Between Context (environment information), Functions (AI State Logic), and Brain (AI making decisions)
-- Health and Stamina are generic and reusable scripts
-- Scripted Events 
+- Modular AI state machine system
+- Finite state transitions based on player interaction and combat feedback
+- Clear separation between decision-making (AI brain) and state logic
+- Context-driven AI using environment data (player distance, combat state, etc.)
+- Reusable health and stamina systems
+- Event-driven combat interactions
