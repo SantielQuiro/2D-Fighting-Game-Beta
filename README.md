@@ -1,7 +1,9 @@
 # 🎮 7Hit Stick Fight
 
-## 🕹️ Play the Game: 👉 [Play on Itch.io] ((https://santielquiro.itch.io/7hit-stick-fight-beta))
+## 🎥 Gameplay Trailer: https://youtu.be/L31c3OgMJcE?si=tUy0iWYd5hAhhqkT
 
+## 🕹️ Play the Game: 👉 [Play on Itch.io] ((https://santielquiro.itch.io/7hit-stick-fight-beta))
+---
 ## 📌 Description
 7Hit Stick Fight is a 2D Action Game focused on timing-based combat, 
 featuring stamina management and a parry-centered combat system.
